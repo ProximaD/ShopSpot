@@ -1,0 +1,2 @@
+# ShopSpot
+E-Commerce Store
